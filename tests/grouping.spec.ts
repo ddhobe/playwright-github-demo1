@@ -15,6 +15,6 @@ test.describe("group 2",async()=>{
     })
 
     test("test 4",async({page})=>{
-        console.log('this is test 4')
+        console.log('this is test 4');
     })
 })
